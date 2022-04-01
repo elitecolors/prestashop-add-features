@@ -6,4 +6,6 @@ Prestashop module allow user to add all features to product with simple button c
 ## install module 
  * go to back office product page
  * press btn add all features 
- *  save 
+ * save 
+### back office product page view 
+ ![img.png](img.png)
